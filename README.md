@@ -1,7 +1,17 @@
 # baptistebenin.github.io
 Projet "Bénin"
+
 <!DOCTYPE html>
 <html lang="fr" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Projet "Bénin"</title>
+ 
+  
+      <link rel="stylesheet" href="benincss.css">
+
+  
 </head>
 
 <body>
@@ -12,30 +22,20 @@ Projet "Bénin"
     <li><a href="actu.html"> Actualités</a></li>
   </ul>
 </nav>
-<center><h1 style="color:white;">Actualités
-</h1>
-  <h3 style="color:white"> Financement</h3>
-  
-  <div class="image-cropper">
-    <img src="IMG_2608.JPG
-" class="rounded" />
+	
+<center><h1 style="color:white;">Projet Bénin</h1>
+<div class="image-cropper">
+    <img src="benin accueil.jpg" class="rounded"  />
 </div>
-  <br>
-    
-   <a  style="color:white;">Nous avons réalisé des cale&ccedil;ons en wax...<br> </a>
-   <br><br><br><br>
- <h3 style="color:white">  </h3>
-  <div class="image-cropper">
-    <img src="" class="rounded"  />
-</div>
-  <br>
-  <a
+<p style="color:white;">
+	<p>
 </center>
   
 
 </body>
 
 </html>
+
 
 <!DOCTYPE html>
 <html lang="fr" >
@@ -89,75 +89,11 @@ Nous partirons 3 semaines au b&eacutenin. L&agrave; bas, nous arriverons en terr
 </body>
 
 </html>
-.image-cropper {
-  display: inline-block;
-  border: 2px ;
-  width: 700px;
-  height:400px;
-  border-radius: 3%;
-  overflow: hidden;
-}
-img {
-  width: inherit;
-  height: inherit;
-  border-radius: inherit;
-}
-body {
-  font-family: Helvetica Neue, Helvetica, sans-serif;
-  background: #2f4f4f
 
-}
-.skew-menu {
-  text-align: center;
-  margin-top: 4em;
-}
-.skew-menu ul {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  transform: skew(-25deg);
-}
-.skew-menu ul li {
-  background: #fff;
-  float: left;
-  border-right: 1px solid #eee;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-  text-transform: uppercase;
-  color: #555;
-  font-weight: bolder;
-  transition: all 0.3s linear;
-}
-.skew-menu ul li:first-child {
-  border-radius: 7px 0 0 7px;
-}
-.skew-menu ul li:last-child {
-  border-right: none;
-  border-radius: 0 7px 7px 0;
-}
-.skew-menu ul li:hover {
-  background: #eee;
-  color: #5A5E6B;
-}
-.skew-menu ul li a {
-  display: block;
-  padding: 1em 2em;
-  color: inherit;
-  text-decoration: none;
-  transform: skew(25deg);
-}
+
 
 <!DOCTYPE html>
 <html lang="fr" >
-
-<head>
-  <meta charset="UTF-8">
-  <title>Projet "Bénin"</title>
- 
-  
-      <link rel="stylesheet" href="benincss.css">
-
-  
 </head>
 
 <body>
@@ -168,17 +104,27 @@ body {
     <li><a href="actu.html"> Actualités</a></li>
   </ul>
 </nav>
-	
-<center><h1 style="color:white;">Projet Bénin</h1>
-<div class="image-cropper">
-    <img src="benin accueil.jpg" class="rounded"  />
-</div>
-<p style="color:white;">
-	<p>
-</center>
+<center><h1 style="color:white;">Actualités
+</h1>
+  <h3 style="color:white"> Financement</h3>
   
-
+  <div class="image-cropper">
+    <img src="IMG_2608.JPG
+" class="rounded" />
+</div>
+  <br>
+    
+   <a  style="color:white;">Nous avons réalisé des cale&ccedil;ons en wax...<br> </a>
+   <br><br><br><br>
+ <h3 style="color:white">  </h3>
+  <div class="image-cropper">
+    <img src="" class="rounded"  />
+</div>
+  <br>
+  <a
+</center>
 </body>
 
 </html>
+  
 
