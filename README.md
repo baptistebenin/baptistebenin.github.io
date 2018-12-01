@@ -1,6 +1,6 @@
 # baptistebenin.github.io
 Projet "Bénin"
-
+https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benincss.css
 <!DOCTYPE html>
 <html lang="fr" >
 
@@ -9,7 +9,7 @@ Projet "Bénin"
   <title>Projet "Bénin"</title>
  
   
-      <link rel="stylesheet" href="benincss.css">
+      <link rel="stylesheet" href="https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benincss.css">
 
   
 </head>
@@ -46,7 +46,7 @@ Projet "Bénin"
   
   
   
-      <link rel="stylesheet" href="benincss.css">
+      <link rel="stylesheet" href="https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benincss.css">
   
 </head>
 
@@ -94,9 +94,10 @@ Nous partirons 3 semaines au b&eacutenin. L&agrave; bas, nous arriverons en terr
 
 <!DOCTYPE html>
 <html lang="fr" >
+	<link rel="stylesheet" href="https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benincss.css">
 </head>
 
-<body>
+
   <nav class="skew-menu">
   <ul>
     <li><a href="index.html">Accueil</a></li>
