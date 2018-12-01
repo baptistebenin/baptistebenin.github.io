@@ -7,3 +7,4 @@ https://github.com/baptistebenin/baptistebenin.github.io/blob/master/actu.html
 https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benincss.css
 https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benin%201.jpg
 https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benin%202.jpg
+https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benin%20accueil.jpg
