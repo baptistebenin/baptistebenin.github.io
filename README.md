@@ -5,3 +5,4 @@ https://github.com/baptistebenin/baptistebenin.github.io/blob/master/IMG_2608.JP
 https://github.com/baptistebenin/baptistebenin.github.io/blob/master/index.html
 https://github.com/baptistebenin/baptistebenin.github.io/blob/master/actu.html
 https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benincss.css
+https://github.com/baptistebenin/baptistebenin.github.io/blob/master/benin%201.jpg
